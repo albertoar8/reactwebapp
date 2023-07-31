@@ -1,0 +1,9 @@
+.wrapper {
+    padding: 5px 20px;
+    align-items: center;
+}
+
+.wrapper fieldset {
+    margin: 20px 0;
+    align-items: center;
+}
